@@ -8,7 +8,7 @@
 
 **🌱 We're brand new! Don't start expecting so much, but we have a lot of plans and *plan* to execute them!**
 
-**📫 How to reach us: [`crescent@andrexial.onmicrosoft.com`](mailto:crescent@andrexial.onmicrosoft.com)**
+**📫 How to reach us: [`business@andrexial.onmicrosoft.com`](mailto:business@andrexial.onmicrosoft.com)**
 
 ###### **💬 “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” ― Alan Turing**
 
