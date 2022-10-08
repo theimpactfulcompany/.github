@@ -27,3 +27,7 @@ Protocol is a videogame set in an alternate dimension, an Otherworld. It is a bu
 ### ⚡ What's Flux?
 
 Flux - making the world's best 'fkcd' programming language. Flux utilises Python's module feature and the Sun Valley `ttk` theme to deliver good looks with good performance. Because it is Python based, it is more simple but a great competitor to Microsoft's C# as it performs many similar functions. As well as this, Flux aims to bring coding to all ages, as well as making it easier for those already coding. Because of Flux's 'fkcd' architecture it sports the ability to process normal Python code, as well as its own, making the perfect transition. Heaven for any developer.
+
+### 🖥️ What's Desktop Management?
+
+Desktop Management simplifies your workspace by making easier to access the power-user tools you need, but still in a user-friendly way. With descriptions for every task, Desktop Management allows you to easily access the normal Windows tools you love.
