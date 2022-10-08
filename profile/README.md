@@ -23,3 +23,7 @@ Emerald is an open-source Minecraft client redesigned to work with the fluent de
 ### 🔗 What's Protocol?
 
 Protocol is a videogame set in an alternate dimension, an Otherworld. It is a bullet-proof idea and has slowly been conceptualised for over five years. Protocol has many sub-games, such as Area, Cube, Otherworld and more! However, these games don't exactly follow the same *protocol*.. They each have their own interpretation of how the world started. 
+
+### ⚡ What's Flux?
+
+Flux - making the world's best 'fkcd' programming language. Flux utilises Python's module feature and the Sun Valley `ttk` theme to deliver good looks with good performance. Because it is Python based, it is more simple but a great competitor to Microsoft's C# as it performs many similar functions. As well as this, Flux aims to bring coding to all ages, as well as making it easier for those already coding. Because of Flux's 'fkcd' architecture it sports the ability to process normal Python code, as well as its own, making the perfect transition. Heaven for any developer.
