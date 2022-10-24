@@ -34,4 +34,4 @@ Desktop Management simplifies your workspace by making easier to access the powe
 ### 🎍 What's Plaza?
 
 Plaza is a fluent open-source Discord client built with WinUI 3 for the Universal Windows Platform. It's also designed for Windows Phone and is an easy to use app.
-Plaza is based on the abandoned [`Unicord`](https://github.com/UnicordDev/Unicord), one of the best modern Discord clients there is.
+Plaza is based on the *somewhat* derelict [`Unicord`](https://github.com/UnicordDev/Unicord), one of the best modern Discord clients there is.
