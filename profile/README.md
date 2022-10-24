@@ -21,7 +21,6 @@
 Emerald is an open-source Minecraft client redesigned to work with the fluent design system; it's the perfect companion to your Windows 11 gaming setup. With beautiful, crystal-clear graphics, you won't be needing your specialised ray-tracing card anymore because Emerald already does it. Emerald *really* does live up to its classy, sparkly, and elegant name.
 
 ### 🔗 What's Protocol?
-
 Protocol is a videogame set in an alternate dimension, an Otherworld. It is a bullet-proof idea and has slowly been conceptualised for over five years. Protocol has many sub-games, such as Area, Cube, Otherworld and more! However, these games don't exactly follow the same *protocol*.. They each have their own interpretation of how the world started. 
 
 ### ⚡ What's Flux?
@@ -31,3 +30,8 @@ Flux - making the world's best 'fkcd' programming language. Flux utilises Python
 ### 🖥️ What's Desktop Management?
 
 Desktop Management simplifies your workspace by making easier to access the power-user tools you need, but still in a user-friendly way. With descriptions for every task, Desktop Management allows you to easily access the normal Windows tools you love.
+
+### 🎍 What's Plaza?
+
+Plaza is a fluent open-source Discord client built with WinUI 3 for the Universal Windows Platform. It's also designed for Windows Phone and is an easy to use app.
+Plaza is based on the abandoned [`Unicord`](https://github.com/UnicordDev/Unicord), one of the best modern Discord clients there is.
