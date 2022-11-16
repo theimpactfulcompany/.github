@@ -40,7 +40,7 @@ and are licensed to Depth under the following license:
 
 ##### *This list of applications using Icons8 icons is subject to change*
 Icons8 icons are used in the application icons of [`Esmerelda`](https://github.com/CrescentDepth/Esmerelda), [`Otherworld`](https://github.com/CrescentDepth/Emerald) **MODIFIED**,
-`Scrapbook`, `Hypervisor`, `Authority` **MODIFIED**, `Interconnect`, [`Area`](https://github.com/CrescentDepth/Area), [`Cube`](https://github.com/CrescentDepth/Cube), [`Credit`](https://github.com/CrescentDepth/Credit) and `Depth` itself.
+`Scrapbook`, `Hypervisor`, `Authority` **MODIFIED**, `Interconnect`, [`Area`](https://github.com/CrescentDepth/Area), [`Cube`](https://github.com/CrescentDepth/Cube), [`Credit`](https://github.com/CrescentDepth/Credit), [`Flux`](https://github.com/CrescentDepth/Flux) and `Depth` itself.
 
 and are licensed to Depth under the following license:
 
