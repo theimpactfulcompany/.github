@@ -34,4 +34,4 @@ Desktop Management simplifies your workspace by making easier to access the powe
 ### 🎍 What's Plaza?
 
 Plaza is a fluent open-source messaging client built with WinUI for the Universal Windows Platform. It's also designed for Windows Phone and is an easy to use app.
-Plaza is based on [`Noobsenger`](https://github.com/NoobNotFound), but rather than being hosted locally, Plaza is hosted on Azure/Andrexial servers.
+Plaza is based on [`Noobsenger`](https://github.com/NoobNotFound/Noobsenger), but rather than being hosted locally, Plaza is hosted on Azure/Andrexial servers.
