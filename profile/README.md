@@ -35,3 +35,7 @@ Desktop Management simplifies your workspace by making easier to access the powe
 
 Plaza is a fluent open-source messaging client built with WinUI for the Universal Windows Platform. It's also designed for Windows Phone and is an easy to use app.
 Plaza is based on [`Noobsenger`](https://github.com/NoobNotFound/Noobsenger), but rather than being hosted locally, Plaza is hosted on Azure/Andrexial servers.
+
+### 🖋️ What's Inspire?
+
+Inspire enhances your experience as a developer. Powered by Esmerelda, Inspire Studio can predict your code and automatically fill it in for you, easing your writing process. Inspire is commited to keeping you in your flow - it has helpful techniques to keep the Inspiration coming in, so you can write fluently.
