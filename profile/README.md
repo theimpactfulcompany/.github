@@ -22,11 +22,15 @@ Emerald is an open-source Minecraft client redesigned to work with the fluent de
 
 ### 🔗 What's Protocol?
 
-Protocol is a videogame set in an alternate dimension, an Otherworld. It is a bullet-proof idea and has slowly been conceptualised for over five years. Protocol has many sub-games, such as Area, Cube, Otherworld and more! However, these games don't exactly follow the same *protocol*.. They each have their own interpretation of how the world started. 
+Protocol is a videogame content creation platform where people can publish their videogames made in Inspire using Momentum. Protocol also hosts the Other game series, which are the first ever games to be made using Momentum.
+
+### ✨ What's the Other game series?
+
+The Other game series is a set of videogames set in an alternate dimension, namely th Otherworld. With oldest roots in 2015, it is a bullet-proof idea that inspired the start of almost all of Depth. These are the first games to be made in Momentum and published on Protocol.
 
 ### ⚡ What's Flux?
 
-Flux - making the world's best 'fkcd' programming language. Flux utilises Python's module feature and the Sun Valley `ttk` theme to deliver good looks with good performance. Because it is Python based, it is more simple but a great competitor to Microsoft's C# as it performs many similar functions. As well as this, Flux aims to bring coding to all ages, as well as making it easier for those already coding. Because of Flux's 'fkcd' architecture it sports the ability to process normal Python code, as well as its own, making the perfect transition. Heaven for any developer.
+Flux - a usable yet professional Python framework. Flux takes advantage of how Python was built along with an inspiration by [`rdbende`](https://github.com/rdbende)'s `sv-ttk` theme to deliver good looks with great performance. Because of Flux's 'fkcd' architecture and how it is based on Python, it sports the ability to process normal Python code, as well as its own, making the perfect transition. Since all Flux apps are, down to ground, Python apps, all Flux apps are multiplatform, perfect for games and general-purpose apps. Flux also has many useful classes built-in*, that you would commonly need to do hours of research to find.
 
 ### 🖥️ What's Desktop Management?
 
@@ -43,3 +47,7 @@ Inspire enhances your experience as a developer. Powered by Esmerelda, Inspire S
 ### 🚈 What's Momentum?
 
 Momentum is the ultimate cross-platform game & render engine, fit for any high quality, high spec game. Integrating directly with Inspire Studio, any Momentum game or render can be coded in Flux, meaning complete all platform support. If it can run Flux, it can run Momentum.
+
+---
+
+###### *Commonly Used Libraries In New Applications (Read Yonder) CULINARY LIBRARY: applications added per Depth's discretion, applications may have their own licenses, please see the CULINARY License. 
