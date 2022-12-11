@@ -30,7 +30,7 @@ The Other game series is a set of videogames set in an alternate dimension, name
 
 ### ⚡ What's Flux?
 
-Flux - a usable yet professional Python framework. Flux takes advantage of how Python was built along with an inspiration by [`rdbende`](https://github.com/rdbende)'s `sv-ttk` theme to deliver good looks with great performance. Because of Flux's 'fkcd' architecture and how it is based on Python, it sports the ability to process normal Python code, as well as its own, making the perfect transition. Since all Flux apps are, down to ground, Python apps, all Flux apps are multiplatform, perfect for games and general-purpose apps. Flux also has many useful classes built-in*, that you would commonly need to do hours of research to find.
+Flux - a usable yet professional Python framework. Flux takes advantage of how Python was built along with an inspiration by [`rdbende`](https://github.com/rdbende)'s `sv-ttk` theme to deliver good looks with great performance. Because of Flux's 'fkcd' architecture and how it is based on Python, it sports the ability to process normal Python code, as well as its own, making the perfect transition. Since all Flux apps are, down to ground, Python apps, all Flux apps are multiplatform, perfect for games and general-purpose apps.
 
 ### 🖥️ What's Desktop Management?
 
@@ -47,7 +47,3 @@ Inspire enhances your experience as a developer. Powered by Esmerelda, Inspire S
 ### 🚈 What's Momentum?
 
 Momentum is the ultimate cross-platform game & render engine, fit for any high quality, high spec game. Integrating directly with Inspire Studio, any Momentum game or render can be coded in Flux, meaning complete all platform support. If it can run Flux, it can run Momentum.
-
----
-
-###### *Commonly Used Libraries In New Applications CULINA(RY) LIBRARY: applications added per Depth's discretion, applications may have their own licenses, please see the CULINARY License. 
