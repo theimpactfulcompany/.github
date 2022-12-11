@@ -50,4 +50,4 @@ Momentum is the ultimate cross-platform game & render engine, fit for any high q
 
 ---
 
-###### *Commonly Used Libraries In New Applications (Read Yonder) CULINARY LIBRARY: applications added per Depth's discretion, applications may have their own licenses, please see the CULINARY License. 
+###### *Commonly Used Libraries In New Applications CULINA(RY) LIBRARY: applications added per Depth's discretion, applications may have their own licenses, please see the CULINARY License. 
