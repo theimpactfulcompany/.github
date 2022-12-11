@@ -38,7 +38,7 @@ Desktop Management simplifies your workspace by making easier to access the powe
 
 ### 🎍 What's Plaza?
 
-Plaza is a fluent open-source messaging client built with Flux. Inspired by [`Noobsenger`](https://github.com/NoobNotFound/Noobsenger), Plaza is still a WLAN/LAN messenger, so you can host chats yourself, but Plaza mainly is hosted on Azure/Andrexial servers.
+Plaza is a fluent open-source messaging client built with Flux. Inspired by [`Noobsenger`](https://github.com/NoobNotFound/Noobsenger), Plaza is still a WAN/LAN messenger, so you can host chats yourself, but Plaza mainly is hosted on Azure/Andrexial servers.
 
 ### 🖋️ What's Inspire?
 
