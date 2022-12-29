@@ -22,11 +22,7 @@ Emerald is an open-source Minecraft client redesigned to work with the fluent de
 
 ### 🔗 What's Protocol?
 
-Protocol is a videogame content creation platform where people can publish their videogames made in Inspire using Momentum. Protocol also hosts the Other game series, which are the first ever games to be made using Momentum.
-
-### ✨ What's the Other game series?
-
-The Other game series is a set of videogames set in an alternate dimension, namely th Otherworld. With oldest roots in 2015, it is a bullet-proof idea that inspired the start of almost all of Depth. These are the first games to be made in Momentum and published on Protocol.
+The Protocol game series (also Othergame) is a set of videogames set in an alternate dimension, namely th Otherworld. With oldest roots in 2015, it is a bullet-proof idea that inspired the start of almost all of Depth. These are the first games to be made in Momentum and published on Protocol.
 
 ### ⚡ What's Flux?
 
