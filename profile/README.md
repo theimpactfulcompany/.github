@@ -30,7 +30,7 @@ The Other game series is a set of videogames set in an alternate dimension, name
 
 ### ⚡ What's Flux?
 
-Flux - a usable yet professional Python framework. Flux takes advantage of how Python was built along with an inspiration by [`rdbende`](https://github.com/rdbende)'s `sv-ttk` theme to deliver good looks with great performance. Because of Flux's 'fkcd' architecture and how it is based on Python, it sports the ability to process normal Python code, as well as its own, making the perfect transition. Since all Flux apps are, down to ground, Python apps, all Flux apps are multiplatform, perfect for games and general-purpose apps.
+Flux - a usable yet professional Python framework. Flux takes advantage of how Python was built along with an inspiration by [`rdbende`](https://github.com/rdbende)'s `sv-ttk` theme to deliver good looks with great performance, being consistent with your other Windows apps. Because of Flux's 'fkcd' architecture and how it is based on Python, it sports the ability to process normal Python code, as well as its own, making the perfect transition. Since all Flux apps are, down to ground, Python apps, all Flux apps are multiplatform, perfect for games and general-purpose apps.
 
 ### 🖥️ What's Desktop Management?
 
