@@ -22,7 +22,11 @@ Emerald is an open-source Minecraft client redesigned to work with the fluent de
 
 ### 🔗 What's Protocol?
 
-The Protocol game series (also Othergame) is a set of videogames set in an alternate dimension, namely th Otherworld. With oldest roots in 2015, it is a bullet-proof idea that inspired the start of almost all of Depth. These are the first games to be made in Momentum and published on Protocol.
+A dashboard. A content library. A software development kit. An application programming interface. What more is there to ask? Protocol is your all-in-one API and dashboard, for managing not only your Depth account, but Depth services such as Esmerelda.
+
+### ✨ What's are the Othergames?
+
+The Othergame series (also Otherworldy games) is a set of videogames set in an alternate dimension, namely the Otherworld. With oldest roots in 2015, it is a bullet-proof idea that inspired the start of almost all of Depth. These are the first games to be made in Momentum.
 
 ### ⚡ What's Flux?
 
