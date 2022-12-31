@@ -3,7 +3,7 @@
 #### Emoji is the 21st century's method of communication.
 
 <p align="center">
-  <a title="uses emoji" target="_blank" href="">
+  <a title="uses emoji" target="_blank" href="https://github.com/OpenAndrexial/.github/blob/main/EMOJI.md">
     <img alt="This project uses emoji." align="left" src="https://img.shields.io/badge/uses-emoji-yellow">
   </a>
 </p>
