@@ -26,7 +26,7 @@ A dashboard. A content library. A software development kit. An application progr
 
 ### ✨ What's are the Othergames?
 
-The Othergame series (also Otherworldy games) is a set of videogames set in an alternate dimension, namely the Otherworld. With oldest roots in 2015, it is a bullet-proof idea that inspired the start of almost all of Depth. These are the first games to be made in Momentum.
+The Othergame series (also Otherworldy games) is a set of videogames set in an alternate dimension, namely the Otherworld. These are the first games to be made in Momentum.
 
 ### ⚡ What's Flux?
 
