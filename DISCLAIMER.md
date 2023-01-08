@@ -61,7 +61,7 @@ and are licensed to Depth under the following license:
 
 ```
 
-    -------------------------------
+	-------------------------------
 	UBUNTU FONT LICENCE Version 1.0
 	-------------------------------
 
