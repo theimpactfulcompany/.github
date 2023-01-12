@@ -4,13 +4,15 @@
 
 <!--<img align="right" src="https://metrics.lecoq.io/OpenAndrexial?template=classic&languages=1&introduction=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction=false&introduction.title=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FLondon&config.octicon=true" width="300" />-->
 
-#### We're [`Depth`](https://github.com/RiversideValley), an outstanding organisation owned by Riverside Valley that focuses on open-source, fluent, and useful apps/games for all ages.
+###### The future of computing starts now.
 
-**🌱 We're brand new! Don't start expecting so much, but we have a lot of plans and *plan* to execute them!**
+#### We're [`Depth`](https://github.com/RiversideValley), an outstanding organisation owned by Riverside Valley Corporation that believes in people, not money.
+
+**🔭 We're currently working on so many projects! Look out for Emerald, Flux, Protocol, Otherworld, and Inspire on your journey around our GitHub page!**
 
 **📫 How to reach us: [`business@andrexial.org.uk`](mailto:business@andrexial.org.uk)**
 
-###### **💬 “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” ― Alan Turing**
+**💬 “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” ― Alan Turing**
 
 <br/>
 
