@@ -5,8 +5,8 @@
 ### 😄 Microsoft Fluent Emoji
 
 ##### *This list of applications using Microsoft Fluent Emoji is subject to change*
-Microsoft Fluent Emoji is used in the application icons of [`Plaza`](https://github.com/OpenAndrexial/Plaza), [`Credit`](https://github.com/OpenAndrexial/Credit), [`Emerald`](https://github.com/OpenAndrexial/Emerald) **MODIFIED**, [`Inspire`](https://github.com/OpenAndrexial/Inspire) and 
-[`Protocol`](https://github.com/OpenAndrexial/Protocol)
+Microsoft Fluent Emoji is used in the application icons of [`Plaza`](https://github.com/OpenAndrexial/Plaza), [`Credit`](https://github.com/OpenAndrexial/Credit), [`Emerald`](https://github.com/OpenAndrexial/Emerald) **MODIFIED**, [`Inspire`](https://github.com/OpenAndrexial/Inspire),
+[`Protocol`](https://github.com/OpenAndrexial/Protocol) and [`Riverside Valley`](https://github.com/RiversideValley) **MODIFIED**
 
 and are licensed to Depth under the following license:
 
