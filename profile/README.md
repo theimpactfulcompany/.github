@@ -2,7 +2,7 @@
 
 <a href="https://github.com/RiversideValley"><img align="left" src="https://user-images.githubusercontent.com/71598437/189516578-6acd4c56-7b4e-4d62-99b4-d3ad2e184696.png" width="575"/><a/>
 
-<!--<img align="right" src="https://metrics.lecoq.io/OpenAndrexial?template=classic&languages=1&introduction=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction=false&introduction.title=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FLondon&config.octicon=true" width="300" />-->
+<!--<img align="right" src="https://metrics.lecoq.io/RiversideValley?template=classic&languages=1&introduction=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction=false&introduction.title=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FLondon&config.octicon=true" width="300" />-->
 
 ###### The future of computing starts now.
 
@@ -10,7 +10,7 @@
 
 **🔭 We're currently working on so many projects! Look out for Emerald, Flux, Protocol, Otherworld, and Inspire on your journey around our GitHub page!**
 
-**📫 How to reach us: [`business@andrexial.org.uk`](mailto:business@andrexial.org.uk)**
+**📫 How to reach us: [`business@theriversi.de`](mailto:business@theriversi.de)** 😕 Need help? [`support@theriversi.de`](mailto:support@theriversi.de)
 
 **💬 “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” ― Alan Turing**
 
@@ -20,32 +20,41 @@
 
 ### 💎 What's Emerald?
 
-Emerald is an open-source Minecraft client redesigned to work with the fluent design system; it's the perfect companion to your Windows 11 gaming setup. With beautiful, crystal-clear graphics, you won't be needing your specialised ray-tracing card anymore because Emerald already does it. Emerald *really* does live up to its classy, sparkly, and elegant name.
+[`download - github`](https://user-images.githubusercontent.com/74561130/160255105-5e32f911-574f-4cc4-b90b-8769099086e4.png) [`download - store`](https://apps.microsoft.com/store/detail/9PPC02GP33FT)
+
+A stylish fluent Minecraft launcher made using WinUI technologies in the fast C# language really pushes the boundary of the platform. A true compliment to any gamer's setup. Emerald *really* does live up to its classy, sparkly, and elegant name.
 
 ### 🔗 What's Protocol?
 
 A dashboard. A content library. A software development kit. An application programming interface. What more is there to ask? Protocol is your all-in-one API and dashboard, for managing not only your Depth account, but Depth services such as Esmerelda.
 
-### ✨ What's are the Othergames?
+### ✨ What's is the Otherworld and Otherverse?
 
-The Othergame series (also Otherworldy games) is a set of videogames set in an alternate dimension, namely the Otherworld. These are the first games to be made in Momentum.
+[`download - store`](https://apps.microsoft.com/store/detail/9P77VDX8H2KV)
 
-### ⚡ What's Flux?
+An engaging and exhilerating videogame by Riverside Valley, quality for gamers with high standards. Made using the Momentum game engine to deliver stunning graphics with speedy performance for any platform.
 
-Flux - a usable yet professional Python framework. Flux takes advantage of how Python was built along with an inspiration by [`rdbende`](https://github.com/rdbende)'s `sv-ttk` theme to deliver good looks with great performance, being consistent with your other Windows apps. Because of Flux's 'fkcd' architecture and how it is based on Python, it sports the ability to process normal Python code, as well as its own, making the perfect transition. Since all Flux apps are, down to ground, Python apps, all Flux apps are multiplatform, perfect for games and general-purpose apps.
+### ⚡ What's Fluid?
+
+Fluid (**aka [Flux](https://github.com/RiversideValley/Fluid.Runtime/wiki#this-is-flux---the-c-implementation-of-the-fluid-framework)**) - a usable yet professional programming language. Fluid takes advantage of how Python was built along with an inspiration of the Tukaan GUI toolkit to deliver good looks with great performance, being consistent with your other Windows apps. Because of the Fluid framework's architecture and how it is based on Python and C, it sports the ability to process normal Python code, as well as its own, making the perfect transition to port your app to the Fluid Runtime.
+
+### 🎍 What's Plaza?
+
+[`sign up`](https://plaza.theriversi.de/auth/sign_up)
+
+Plaza is a fluent open-source messaging client built with Ruby and Javascript. Inspired by [`Noobsenger`](https://github.com/NoobNotFound/Noobsenger), Plaza is still a WAN/LAN messenger, so you can host chats yourself, but Plaza mainly is hosted on  servers.
+
+### 🖋️ What's Inspire?
+
+A powerful and helpful integrated development environment enhanced for Fluid development, yet supporting any of your favourite languages. Inspire is commited to keeping you in your flow - it has helpful techniques to keep the Inspiration coming in, so you can write fluently. Powered by Esmerelda AI, it can detect what you're aiming to write or give you helpful tips on how to improve, for free. 
+
+### 🚈 What's Momentum?
+
+Momentum is the ultimate cross-platform game & render engine, fit for any high quality, high spec game. Integrating directly with Inspire Studio, any Momentum game or render can be coded in the Fluid Runtime, meaning complete all platform support. If it can run Flux, it can run Momentum.
+
+<!--## 🏚️ Abandoned Projects
 
 ### 🖥️ What's Desktop Management?
 
 Desktop Management simplifies your workspace by making easier to access the power-user tools you need, but still in a user-friendly way. With descriptions for every task, Desktop Management allows you to easily access the normal Windows tools you love.
-
-### 🎍 What's Plaza?
-
-Plaza is a fluent open-source messaging client built with Flux. Inspired by [`Noobsenger`](https://github.com/NoobNotFound/Noobsenger), Plaza is still a WAN/LAN messenger, so you can host chats yourself, but Plaza mainly is hosted on Azure/Andrexial servers.
-
-### 🖋️ What's Inspire?
-
-Inspire enhances your experience as a developer. Powered by Esmerelda, Inspire Studio can predict your code and automatically fill it in for you, easing your writing process. Inspire is commited to keeping you in your flow - it has helpful techniques to keep the Inspiration coming in, so you can write fluently.
-
-### 🚈 What's Momentum?
-
-Momentum is the ultimate cross-platform game & render engine, fit for any high quality, high spec game. Integrating directly with Inspire Studio, any Momentum game or render can be coded in Flux, meaning complete all platform support. If it can run Flux, it can run Momentum.
+-->
