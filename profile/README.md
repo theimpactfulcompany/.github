@@ -40,7 +40,7 @@ Fluid (**aka [Flux](https://github.com/RiversideValley/Fluid.Runtime/wiki#this-i
 
 ### 🎍 What's Plaza?
 
-[`sign up`](https://plaza.theriversi.de/auth/sign_up)
+[`download - store`](https://apps.microsoft.com/store/detail/9P9HDL7875HG) [`sign up`](https://plaza.theriversi.de/auth/sign_up)
 
 Plaza is a fluent open-source messaging client built with Ruby and Javascript. Inspired by [`Noobsenger`](https://github.com/NoobNotFound/Noobsenger), Plaza is still a WAN/LAN messenger, so you can host chats yourself, but Plaza mainly is hosted on  servers.
 
