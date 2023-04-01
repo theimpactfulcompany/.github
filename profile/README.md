@@ -26,9 +26,9 @@ A stylish fluent Minecraft launcher made using WinUI technologies in the fast C#
 
 ### 🔗 What's Protocol?
 
-A dashboard. A content library. A software development kit. An application programming interface. What more is there to ask? Protocol is your all-in-one API and dashboard, for managing not only your Depth account, but Depth services such as Esmerelda.
+A dashboard. A content library. A software development kit. An application programming interface. What more is there to ask? Protocol is your all-in-one API and dashboard, for managing not only your account, but Hyper platform services including Hyperform, Hyperactive, Hypervisor for Business
 
-### ✨ What's is the Otherworld and Otherverse?
+### ✨ What's the Otherworld?
 
 [`download - store`](https://apps.microsoft.com/store/detail/9P77VDX8H2KV)
 
