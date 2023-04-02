@@ -6,7 +6,7 @@
 
 ###### The future of computing starts now.
 
-#### We're [`Depth`](https://github.com/RiversideValley), an outstanding organisation owned by Riverside Valley Corporation that believes in people, not money.
+#### We're [`Riverside Valley`](https://github.com/RiversideValley), an outstanding organisation owned by the Riverside Valley Corporation IT conglomerate that believes in people, not money.
 
 **🔭 We're currently working on so many projects! Look out for Emerald, Flux, Protocol, Otherworld, and Inspire on your journey around our GitHub page!**
 
@@ -15,12 +15,17 @@
 **💬 “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” ― Alan Turing**
 
 <br/>
-
+<!--
 ---
 
 ### 💎 What's Emerald?
 
-[`download - github`](https://github.com/RiversideValley/Emerald/releases/latest) [`download - store`](https://apps.microsoft.com/store/detail/9PPC02GP33FT)
+[![`download - store`](https://user-images.githubusercontent.com/74561130/137598555-649c77c7-1719-4aa3-8017-8b41283de730.png)](https://apps.microsoft.com/store/detail/9PPC02GP33FT) 
+[![`download - github](https://user-images.githubusercontent.com/74561130/137585885-7f98b4de-5067-41ee-bdb4-2a04fea4b90a.png)](https://github.com/RiversideValley/Emerald/releases/latest)
+
+[![`@divide`](https://user-images.githubusercontent.com/74561130/137599566-866fef7d-967e-4ad1-91da-8014d1752b93.png)]()
+
+[![`contribute`](https://user-images.githubusercontent.com/74561130/137586097-1f64560c-9bb1-47cc-bd44-fa87c1b09e5b.png)](https://github.com/RiversideValley/Emerald)
 
 A stylish fluent Minecraft launcher made using WinUI technologies in the fast C# language really pushes the boundary of the platform. A true compliment to any gamer's setup. Emerald *really* does live up to its classy, sparkly, and elegant name.
 
@@ -30,7 +35,7 @@ A dashboard. A content library. A software development kit. An application progr
 
 ### ✨ What's the Otherworld?
 
-[`download - store`](https://apps.microsoft.com/store/detail/9P77VDX8H2KV)
+[![`download - store`](https://user-images.githubusercontent.com/74561130/137598555-649c77c7-1719-4aa3-8017-8b41283de730.png)](https://apps.microsoft.com/store/detail/9P77VDX8H2KV)
 
 An engaging and exhilerating videogame by Riverside Valley, quality for gamers with high standards. Made using the Momentum game engine to deliver stunning graphics with speedy performance for any platform.
 
@@ -40,7 +45,7 @@ Fluid (**aka [Flux](https://github.com/RiversideValley/Fluid.Runtime/wiki#this-i
 
 ### 🎍 What's Plaza?
 
-[`download - store`](https://apps.microsoft.com/store/detail/9P9HDL7875HG) [`sign up`](https://plaza.theriversi.de/auth/sign_up)
+[![`download - store`](https://user-images.githubusercontent.com/74561130/137598555-649c77c7-1719-4aa3-8017-8b41283de730.png)](https://apps.microsoft.com/store/detail/9P9HDL7875HG)
 
 Plaza is a fluent open-source messaging client built with Ruby and Javascript. Inspired by [`Noobsenger`](https://github.com/NoobNotFound/Noobsenger), Plaza is still a WAN/LAN messenger, so you can host chats yourself, but Plaza mainly is hosted on  servers.
 
