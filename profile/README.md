@@ -20,7 +20,7 @@
 
 ### 💎 What's Emerald?
 
-[`download - github`](https://user-images.githubusercontent.com/74561130/160255105-5e32f911-574f-4cc4-b90b-8769099086e4.png) [`download - store`](https://apps.microsoft.com/store/detail/9PPC02GP33FT)
+[`download - github`](https://github.com/RiversideValley/Emerald/releases/latest) [`download - store`](https://apps.microsoft.com/store/detail/9PPC02GP33FT)
 
 A stylish fluent Minecraft launcher made using WinUI technologies in the fast C# language really pushes the boundary of the platform. A true compliment to any gamer's setup. Emerald *really* does live up to its classy, sparkly, and elegant name.
 
