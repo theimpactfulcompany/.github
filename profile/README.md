@@ -12,8 +12,6 @@
 
 **📫 How to reach us: [`business@theriversi.de`](mailto:business@theriversi.de)** 😕 Need help? [`support@theriversi.de`](mailto:support@theriversi.de)
 
-**💬 “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” ― Alan Turing**
-
 <br/>
 <!--
 ---
