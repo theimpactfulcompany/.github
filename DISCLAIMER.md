@@ -1,14 +1,16 @@
 # 📃 Global Disclaimer
 
-##### *Please note that many icons, fonts and other branding used for applications inside Depth are licensed to Depth under certain licenses, and are as follows:*
+##### *Please note that many icons, fonts and other branding used for applications inside Riverside Valley are licensed to Riverside under certain licenses, and are as follows:*
 
 ### 😄 Microsoft Fluent Emoji
 
-##### *This list of applications using Microsoft Fluent Emoji is subject to change*
+<!--##### *This list of applications using Microsoft Fluent Emoji is subject to change*
 Microsoft Fluent Emoji is used in the application icons of [`Plaza`](https://github.com/RiversideValley/Plaza), [`Credit`](https://github.com/RiversideValley/Credit), [`Emerald`](https://github.com/RiversideValley/Emerald) **MODIFIED**, [`Inspire`](https://github.com/RiversideValley/Inspire),
 [`Protocol`](https://github.com/RiversideValley/Protocol), [`Nightshade`](https://github.com/RiversideValley/Nightshade) and [`Riverside Valley`](https://github.com/RiversideValley) **MODIFIED**
 
-and are licensed to Depth under the following license:
+and are licensed to Depth under the following license:-->
+
+Microsoft Fluent Emoji are used across multiple apps and services and are licensed to Riverside Valley under the following license:
 
 ```
 
@@ -38,11 +40,13 @@ and are licensed to Depth under the following license:
 
 ### 🎱 Icons8
 
-##### *This list of applications using Icons8 icons is subject to change*
+<!--##### *This list of applications using Icons8 icons is subject to change*
 Icons8 icons are used in the application icons of [`Esmerelda`](https://github.com/CrescentDept/Esmerelda), [`Otherworld`](https://github.com/OpenAndrexial/Emerald) **MODIFIED**,
 `Scrapbook`, `Hypervisor`, `Authority` **MODIFIED**, `Interconnect`, [`Area`](https://github.com/OpenAndrexial/Area), [`Cube`](https://github.com/OpenAndrexial/Cube), [`Flux`](https://github.com/OpenAndrexial/Flux) and `Depth` (**MODIFIED**) itself
 
-and are licensed to Depth under the following license:
+and are licensed to Depth under the following license:-->
+
+Icons8 icons are used across multiple apps and services and are licensed to Riverside Valley under the following license:
 
 ```
 
@@ -54,10 +58,12 @@ and are licensed to Depth under the following license:
 
 ### 🅾️ Ubuntu
 
-##### *This list of applications using Ubuntu fonts is subject to change*
+<!--##### *This list of applications using Ubuntu fonts is subject to change*
 Ubuntu fonts are used within the branding of the applications [`Esmerelda`](https://github.com/RiversideValley/Esmerelda), [`Emerald`](https://github.com/RiversideValley/Emerald) and [Desktop Management](https://github.com/RiversideValley/deskmgr)
 
-and are licensed to Depth under the following license:
+and are licensed to Depth under the following license:-->
+
+Ubuntu fonts are used across multiple apps and services and are licensed to Riverside Valley under the following license:
 
 ```
 
