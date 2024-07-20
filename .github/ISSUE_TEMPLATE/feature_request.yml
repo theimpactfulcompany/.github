@@ -21,6 +21,28 @@ body:
     validations:
       required: false
   - type: textarea
+    id: api-changes
+    attributes:
+      label: ⚡ API Changes
+      description: Include a list of all API changes, additions, subtractions as would be required by your proposal. These APIs should be considered placeholders, so the naming is not as important as getting the concepts correct. If possible you should include some example (pseudo-)code of usage of your new API.
+      placeholder: |
+        ```csharp
+        var button = new Button ();
+        button.MakeShiny = true; // new API
+        ```
+
+        The MakeShiny API works even if the button is already visible.
+    validations:
+      required: false
+  - type: textarea
+    id: use-case
+    attributes:
+      label: 👥 Intended Use-Case
+      description: Provide a detailed example of where your proposal would be used and for what purpose. Focus on _why_ you want this feature instead of _what_ the feature does.
+      placeholder: I have a situation where I would really want a shiny button to make it stand out from the rest of the plain and boring buttons.
+    validations:
+      required: false
+  - type: textarea
     attributes:
       label: ✅ Tasks
       description: Give an overview of all the specific things you would like to be changed or implemented.
