@@ -38,6 +38,32 @@ body:
     attributes:
       label: 🤔 Expected behavior
       description: A clear and concise description of what you expected to happen.
+  - type: dropdown
+    id: platforms-affected
+    attributes:
+      label: Affected platforms
+      description: Select all or any platform that you see this issue on. This helps us determine if it's something platform-specific or in the core. If you were only able to test on 1 platform, please check the last option to inform us about that.
+      multiple: true
+      options:
+        - 📱 Android
+        - 📲 iOS
+        - 💻 macOS
+        - 🪨 Rosetta (macOS Catalyst)
+        - 🪟 Windows
+        - 🪟 WPF
+        - 🐧 GTK
+        - 🐧 Linux Framebuffer
+        - ⌨️ Skia Desktop
+        - 🕸️ WebAssembly
+        - ❓ Other
+        - ☹️ I was unable to test on other platforms
+    validations:
+      required: true
+  - type: textarea
+    id: workaround
+    attributes:
+      label: ⚒️ Did you find any workaround?
+      description: Did you find any workaround for this issue? This can unblock other people while waiting for this issue to be resolved or even give us a hint on how to fix this.
   - type: textarea
     attributes:
       label: 📸 Assets
