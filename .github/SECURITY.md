@@ -31,7 +31,7 @@ declined, etc.
 
 #### Please use the GitHub Security Advisory "Report a Vulnerability" tab! 😅
 
-In order to report a security vulnerability, you can use [GitHub's built-in tool](../../security/advisories/new) which easily allows you to calculate an _attack vector/CVSS string_ or attribute to an existing [`CVE`](https://cve.org) code. This allows us to accurately calculate the severity and/or importance of preventing it.
+In order to report a security vulnerability, you can use GitHub's built-in tool which easily allows you to calculate an _attack vector/CVSS string_ or attribute to an existing [`CVE`](https://cve.org) code. This allows us to accurately calculate the severity and/or importance of preventing it.
 
 ### 🕵️ Spotting secrets in code
 
