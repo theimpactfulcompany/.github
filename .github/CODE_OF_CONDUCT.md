@@ -11,7 +11,7 @@ This code of conduct outlines our expectations for all those who participate in 
 
 We invite all those who participate in Riverside Valley projects to help us create safe and positive experiences for everyone.
 
-## 🏙️ Open [Source/Culture/Tech] Citizenship
+## 🏙️ `Open Source` Citizenship
 
 A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
