@@ -23,19 +23,11 @@ body:
       label: ⚡ API Changes
       description: Include a complete list of all API changes, additions, subtractions as would be required by your proposal.
       value: |
-        # [ class ]
-
-        ## Properties
+        ## `[ class ]`
 
         | API | Description |
         | ------------- | ------------- |
         | [name] | Gets or sets [description]. |
-
-        ## Events
-
-        | API | Description |
-        | ------------- | ------------- |
-        | [name] | [API documentation/description] |
     validations:
       required: true
   - type: textarea
