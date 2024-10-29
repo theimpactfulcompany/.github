@@ -1,8 +1,9 @@
-name: ✏️ Spec
+name: Spec
 description: An official specification for enhancements.
 labels: ["enhancement"]
-title: "✏️ "
 assignees: []
+title: "Spec: "
+type: Spec
 body:
   - type: markdown
     attributes:
