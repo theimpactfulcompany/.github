@@ -1,0 +1,118 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f3f2f1;
+    color: #323130;
+    margin: 0;
+    padding: 0;
+}
+
+a, a:link {
+    color: #0078d4;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #004578;
+    text-decoration: underline;
+}
+
+a:focus {
+    outline: 2px solid #0078d4;
+    outline-offset: 2px;
+}
+
+.ext-header {
+    background-color: #ffffff;
+    padding: 16px;
+    border-bottom: 1px solid #e1e1e1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ext-header-logo {
+    height: 32px;
+}
+
+.ext-middle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f3f2f1;
+    padding: 20px;
+}
+
+.ext-sign-in-box {
+    background-color: #ffffff;
+    padding: 24px;
+    box-shadow: 0 1.6px 3.6px rgba(0, 0, 0, 0.132), 0 0.3px 0.9px rgba(0, 0, 0, 0.108);
+    border-radius: 8px; /* Increased border radius for WinUI3 look */
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+}
+
+.ext-title {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 16px;
+    color: #323130;
+}
+
+.ext-subtitle {
+    font-size: 14px;
+    color: #605e5c;
+    margin-bottom: 24px;
+}
+
+.ext-input.ext-text-box {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 1px solid #e1e1e1;
+    border-radius: 8px; /* Increased border radius for WinUI3 look */
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+.ext-input.ext-text-box:focus {
+    border-color: #0078d4;
+    box-shadow: 0 0 0 1px #0078d4;
+    outline: none;
+}
+
+.ext-button.ext-primary {
+    background-color: #0078d4;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 8px; /* Increased border radius for WinUI3 look */
+    margin-top: 20px;
+    width: 100%;
+}
+
+.ext-button.ext-primary:hover {
+    background-color: #005a9e;
+}
+
+.ext-button.ext-primary:focus {
+    outline: 2px solid #005a9e;
+    outline-offset: 2px;
+}
+
+.ext-button.ext-primary:active {
+    background-color: #004578;
+}
+
+.ext-footer {
+    background-color: #ffffff;
+    padding: 16px;
+    border-top: 1px solid #e1e1e1;
+    text-align: center;
+    font-size: 12px;
+    color: #605e5c;
+}
