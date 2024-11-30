@@ -28,7 +28,7 @@ a:active {
 }
 
 .ext-background-image {
-    background-image: url('https://aadcdn.msauthimages.net/c1c6b6c8-bgimydnpkkuwbjtayolp6xdx5adh7c-p7zuffqxoz8i/logintenantbranding/0/illustration');
+    background-image: url('https://github.com/user-attachments/assets/8d475fbb-2075-4992-b7e8-37822f0ab4a9');
     background-size: cover;
     background-position: center;
 }
@@ -62,7 +62,7 @@ a:active {
 
 .ext-vertical-split-background-image-container {
     flex: 1;
-    background-image: url('https://aadcdn.msauthimages.net/c1c6b6c8-bgimydnpkkuwbjtayolp6xdx5adh7c-p7zuffqxoz8i/logintenantbranding/0/illustration');
+    background-image: url('https://github.com/user-attachments/assets/8d475fbb-2075-4992-b7e8-37822f0ab4a9');
     background-size: cover;
     background-position: center;
 }
@@ -190,6 +190,7 @@ a:active {
     margin-top: 8px;
 }
 
+/*
 .ext-footer {
     background-color: #ffffff;
     padding: 16px;
@@ -208,6 +209,7 @@ a:active {
 .ext-footer-item {
     margin: 0 8px;
 }
+*/
 
 .ext-debug-item {
     margin-top: 8px;
