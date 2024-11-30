@@ -28,7 +28,7 @@ a:active {
 }
 
 .ext-background-image {
-    background-image: url('path/to/your/background-image.jpg');
+    background-image: url('https://aadcdn.msauthimages.net/c1c6b6c8-bgimydnpkkuwbjtayolp6xdx5adh7c-p7zuffqxoz8i/logintenantbranding/0/illustration');
     background-size: cover;
     background-position: center;
 }
@@ -62,7 +62,7 @@ a:active {
 
 .ext-vertical-split-background-image-container {
     flex: 1;
-    background-image: url('path/to/your/background-image.jpg');
+    background-image: url('https://aadcdn.msauthimages.net/c1c6b6c8-bgimydnpkkuwbjtayolp6xdx5adh7c-p7zuffqxoz8i/logintenantbranding/0/illustration');
     background-size: cover;
     background-position: center;
 }
