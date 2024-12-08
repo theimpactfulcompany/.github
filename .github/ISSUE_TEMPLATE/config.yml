@@ -3,6 +3,9 @@ contact_links:
  - name: Discord
    url: https://dsc.gg/devsanx
    about: You can discuss products and services on Discord, too!
+ - name: Discussion
+   url: ../discussions
+   about: Ask questions, show things off, or just have a chat in Discussions!
 #  - name: Support
 #    url: mailto:support@theriversi.de
 #    about: Errors relating to your account? Drop us an email!
