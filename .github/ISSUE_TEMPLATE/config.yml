@@ -1,8 +1,9 @@
+# It's recommended to override this file with other useful links like translation, forum, website, etc.
 blank_issues_enabled: false
 contact_links:
- - name: Discord
-   url: https://dsc.gg/devsanx
-   about: You can discuss products and services on Discord, too!
+  - name: Question & Discussion
+    url: https://dsc.gg/devsanx
+    about: Post your questions and join the discussion. You can participate in chats on every channel.
 #  - name: Support
 #    url: mailto:support@theriversi.de
 #    about: Errors relating to your account? Drop us an email!
