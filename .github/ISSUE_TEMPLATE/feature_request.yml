@@ -1,52 +1,34 @@
 name: Feature Request
-description: Request a new feature to make things better!
-labels: [feature request]
-title: "Feature: "
-type: Feature
+description: This project thrives from differentiation from competing apps. Suggest an idea today!
+title: 'Feature: '
 body:
+
+  # Tip to warn of checking for existing issues
   - type: markdown
     attributes:
       value: |
-        ##### ⏱️ Before you start...
-        - Have you checked whether or not a similar feature request has already been reported?
+        > [!TIP]
+        > Have you checked for similar feature requests? There's a possibility your suggestion is already being tracked. Please do a thorough search before creating a new issue.
+
+  # Description
   - type: textarea
     attributes:
-      label: 📄 Description
-      description: A clear and concise description of what your idea is. Include things like possible use cases, drawbacks, etc.
+      label: What feature or improvement do you think would benefit the app?
+      description: Please include your use case
     validations:
       required: true
-  - type: textarea
-    attributes:
-      label: 🗃️ Alternative solutions
-      description: Describe more ways this idea could be implemented.
-    validations:
-      required: false
-  - type: textarea
-    id: api-changes
-    attributes:
-      label: ⚡ API Changes
-      description: Include a list of all API changes, additions, subtractions as would be required by your proposal. These APIs should be considered placeholders, so the naming is not as important as getting the concepts correct. If possible you should include some example (pseudo-)code of usage of your new API.
-      placeholder: |
-        ```csharp
-        var button = new Button ();
-        button.MakeShiny = true; // new API
-        ```
 
-        The MakeShiny API works even if the button is already visible.
-    validations:
-      required: false
-  - type: textarea
-    id: use-case
+  # Tooltip about requirements
+  - type: markdown
     attributes:
-      label: 👥 Intended Use-Case
-      description: Provide a detailed example of where your proposal would be used and for what purpose. Focus on _why_ you want this feature instead of _what_ the feature does.
-      placeholder: I have a situation where I would really want a shiny button to make it stand out from the rest of the plain and boring buttons.
-    validations:
-      required: false
+      value: |
+        Please include a list of changes required to make this improvement. A good rule of thumb is to start your proposal with no more than 7 high-level requirements.
+
+  # Requirements
   - type: textarea
     attributes:
-      label: ✅ Tasks
-      description: Give an overview of all the specific things you would like to be changed or implemented.
+      label: Requirements
+      description: Describe all the requirements to make your idea happen.
       value: |
         #### 📋 High Priority
         - [ ] Something
@@ -58,10 +40,54 @@ body:
         - [ ] Another thing
         - [ ] https://github.com/link/to/an/issue
     validations:
-      required: false
-  - type: textarea
+      required: true
+
+  # Version
+  - type: input
+    id: app_version
     attributes:
-      label: 📸 Assets
-      description: A list of assets (screenshots, mockups) relevant to this feature request.
+      label: Version
+      description: Which version are you using?
+      placeholder: "e.g. 0.14.0-alpha3"
+
+  # Separator
+  - type: markdown
+    attributes:
+      value: |
+        ---
+
+  - type: textarea
+    id: api-changes
+    attributes:
+      label: API Changes
+      description: Include a list of all API changes, additions, subtractions as would be required by your proposal. These APIs should be considered placeholders, so the naming is not as important as getting the concepts correct. If possible you should include some example (pseudo-)code of usage of your new API.
+      placeholder: |
+        ```csharp
+        var button = new Button ();
+        button.MakeShiny = true; // new API
+        ```
+
+        The MakeShiny API works even if the button is already visible.
     validations:
       required: false
+
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Intended Use-Case
+      description: Provide a detailed example of where your proposal would be used and for what purpose. Focus on _why_ you want this feature instead of _what_ the feature does.
+      placeholder: I have a situation where I would really want a shiny button to make it stand out from the rest of the plain and boring buttons.
+    validations:
+      required: false
+
+  # Separator
+  - type: markdown
+    attributes:
+      value: |
+        ---
+
+  # Additional comments
+  - type: textarea
+    attributes:
+      label: Comments
+      description: Additional information, comments or screenshots about the feature request.
