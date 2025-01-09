@@ -1,9 +1,7 @@
 name: Spec
 description: An official specification for enhancements.
-labels: ["enhancement"]
 assignees: []
 title: "Spec: "
-type: Spec
 body:
   - type: markdown
     attributes:
@@ -14,14 +12,14 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: 📄 Description
+      label: Description
       description: Provide a concise description of the feature and the motivation for adding it. This can be a modified version from the feature request prior to this.
     validations:
       required: true
   - type: textarea
     id: api-changes
     attributes:
-      label: ⚡ API Changes
+      label: API Changes
       description: Include a complete list of all API changes, additions, subtractions as would be required by your proposal.
       value: |
         ## `[ class ]`
@@ -34,7 +32,7 @@ body:
   - type: textarea
     id: usage-scenarios
     attributes:
-      label: 👥 Usage scenarios
+      label: Usage scenarios
       description: Give us a couple of scenarios that demonstrate how developers would consume the above APIs.
       placeholder: |
         # C# Example
@@ -53,7 +51,7 @@ body:
   - type: textarea
     id: backwards-compatibility
     attributes:
-      label: 🔙 Backward Compatibility
+      label: Backward Compatibility
       description: Please describe here anything in terms of backwards compatibility. Will there be breaking changes? Do we need to update dependencies to support this? What are the minimum supported API/OS levels? And lastly, are there any platforms that can't support this and why?
       placeholder: |
         Minimum API levels?
@@ -64,7 +62,7 @@ body:
   - type: dropdown
     id: difficulty
     attributes:
-      label: 🤔 Difficulty
+      label: Difficulty
       description: What do you feel will be the difficulty of this change all things considering? No exact science, just your gut feeling.
       options:
         - Low
