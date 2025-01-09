@@ -1,49 +1,53 @@
 name: Bug Report
-description: Create a bug report to help improve!
-labels: [bug]
-title: "Bug: "
-type: Bug
+description: Create a bug report to help improve
+type: 'Bug'
+title: 'Bug: '
 body:
+
+  # Tip to warn of checking for existing issues
   - type: markdown
     attributes:
       value: |
-        ##### ⏱️ Before you start...
-        - Are you on the latest version? You might be using an old version.
-        - Have you checked whether or not a similar bug has already been reported?
+        > [!TIP]
+        > Have you checked for similar issues? There's a possibility the bug you are experiencing has already been reported. Please do a thorough search before creating a new issue.
+
+  # Description
   - type: textarea
     attributes:
-      label: 🪟 What OS build is this issue present?
-      description: Windows key + R > winver.exe / Apple Logo (in menu bar) > About This Mac (may not be like this on Ventura)
-      placeholder: Windows 11 Insider Beta 22623.1250 / macOS Monterey 12.6.3
-  - type: textarea
-    attributes:
-      label: 🔢 What version are you on?
-  - type: textarea
-    attributes:
-      label: 📄 Description
-      description: A clear and concise description of what the bug is.
+      label: Description
+      description: A clear and concise description of what the issue is.
     validations:
       required: true
+
+  # Step to reproduce
   - type: textarea
     attributes:
-      label: 🪜 Steps To Reproduce
+      label: Steps to reproduce
       description: Steps to reproduce the behavior.
       placeholder: |
-        1. Go to '....'
-        2. Click on '....'
-        3. Scroll down to '....'
-        4. See the error
+        1.
+        2.
+        3.
     validations:
-      required: false
-  - type: textarea
+      required: true
+
+  # Version
+  - type: input
+    id: app_version
     attributes:
-      label: 🤔 Expected behavior
-      description: A clear and concise description of what you expected to happen.
+      label: Version
+      description: Which version are you using?
+      placeholder: "e.g. 0.14.0-alpha3"
+    validations:
+      required: true
+
+  # OS type
   - type: dropdown
-    id: platforms-affected
+    id: os
     attributes:
       label: Affected platforms
-      description: Select all or any platform that you see this issue on. This helps us determine if it's something platform-specific or in the core. If you were only able to test on 1 platform, please check the last option to inform us about that.
+      description: |
+        Select all or any platform that you see this issue on. This helps us determine if it's something platform-specific or in the core.
       multiple: true
       options:
         - 📱 Android
@@ -58,15 +62,45 @@ body:
         - 🕸️ WebAssembly
         - ❓ Other
         - ☹️ I was unable to test on other platforms
+
+  # OS Version
+  - type: input
+    id: os_version
+    attributes:
+      label: Platform version
+      description: Which version of your OS are you using? Press <kbd>Win</kbd> + <kbd>Pause/Break</kbd> and copy or <kbd>🍏</kbd> (in menu bar) and <kbd>About This Mac</kbd>
+      placeholder: "e.g. 10.0.22621.1848"
     validations:
       required: true
-  - type: textarea
-    id: workaround
+
+  # Note that the user should always upload the report rather than pasting it
+  - type: markdown
     attributes:
-      label: ⚒️ Did you find any workaround?
-      description: Did you find any workaround for this issue? This can unblock other people while waiting for this issue to be resolved or even give us a hint on how to fix this.
+      value: |
+        > [!IMPORTANT]
+        > Please **upload** the log file by clicking "Attach files".
+        >
+        > Feel free to remove sensitive information such as your usernames or drive names.
+
+  # Log File
   - type: textarea
     attributes:
-      label: 📸 Assets
+      label: Log File
       description: |
-        A list of assets (errors, screenshots) relevant to the bug.
+        Please upload the log file as an attachment
+      placeholder: |
+        Copy the log from the crash window or upload as an upload it from the log location.
+    validations:
+      required: true
+
+  # Separator
+  - type: markdown
+    attributes:
+      value: |
+        ---
+
+  # Additional Comments
+  - type: textarea
+    attributes:
+      label: Comments
+      description: Additional information, comments or screenshots about the issue.
