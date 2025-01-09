@@ -1,32 +1,28 @@
-<!--⏱️ Before you start...
-Have you checked whether or not a similar pull request has already been reported?-->
+<!-- 
+🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨
+I ACKNOWLEDGE THE FOLLOWING BEFORE PROCEEDING:
+1. PR may be deleted if it is not following the template
+2. Try not to make duplicates. Do a quick search before posting
+3. Add a clear title starting with "Feature:" or "Fix:"
+-->
 
-### 📄 Description
-<!--A clear and concise description of what your idea is. Include things like possible use cases, drawbacks, etc.-->
+**Resolved / Related Issues**
 
+<!--
+To prevent extra work, all changes to the codebase must link to an approved issue marked as `Ready to build`. Please insert the issue number following the hashtag with the issue number that this Pull Request resolves.
+-->
 
-### 🗃️ Alternative solutions
-<!--Describe more ways this idea could be implemented.-->
+- Closes #
 
+**Steps used to test these changes**
 
-### ✅ Tasks
-<!--Give an overview of all the specific things you would like to be changed or implemented.
-If an issue already exists with this, you can add the issue link or number-->
+<!--
+Stability is a top priority and all changes are required to go through testing before being merged into the repo. Please include a list of steps that you used to test this PR.
+-->
 
-```[tasklist]
-### High Priority
-- [ ] Something
-- [ ] Another thing
-- [ ] https://github.com/link/to/an/issue
-```
-```[tasklist]
-### Nice to have
-- [ ] Something
-- [ ] Another thing
-- [ ] https://github.com/link/to/an/issue
-```
+1. Opened the app...
+2. ...
 
-### 📸 Assets
-<!--A list of assets (screenshots, mockups) relevant to this feature request.
-You can also include GitHub citations (if you know what these are).-->
+---
 
+<!-- Write a detailed description of your changes here -->
