@@ -1,11 +1,12 @@
 <p align="center">
-    <a href='https://github.com/Rise-Software/Rise-Media-Player'>
-      <img src="https://github.com/Rise-Software/Rise-Media-Player/assets/74561130/67a1ea8f-1d0f-4c1d-9688-1912ec20f779" alt="RiseMP" />
+    <a href='https://linktr.ee/theimpactfulcompany'>
+      <img src="https://github.com/user-attachments/assets/32cf353b-d8c3-49b1-96d7-d60d384b9fbb" alt="The Impactful Company Logo - The Impactful Company" />
     </a>
-    <a href='https://www.microsoft.com/store/r/9PCSZTMTT55Z'>
-      <img src='https://github.com/Rise-Software/Rise-Media-Player/assets/74561130/3d7edcaf-26d8-4453-a751-29b851721abd'alt='Get it from Microsoft' />
-    </a>
-    <a href='https://github.com/Rise-Software/Rise-Media-Player/releases/latest'>
-      <img src='https://github.com/Rise-Software/Rise-Media-Player/assets/74561130/60deb402-0c8e-4579-80e6-69cb7b19cd43'alt='Get it from GitHub' />
-    </a>
+    <div id="toc">
+    <ul style="list-style: none" align="center">
+        <summary>
+          <h1> We came back, for YOU. Watch this space. </h1>
+        </summary>
+      </ul>
+    </div>
 </p>
